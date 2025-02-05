@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+.container{
+	
+	margin:0px;
+	padding:0px;
+}
+table{
+	border:1px solid black;
+	border-collapse:collapse;
+	width:400px;
+}
+th,td{
+	border:1px solid black;
+	border-collapse:collapse;
+	width:400px;
+	text-align:center;
+
+}
